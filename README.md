@@ -12,3 +12,4 @@
 
 #### 課程大綱
 - [1. MySQL](http://mirdex.github.io/DataCrawler0929/0.%20MySQL.slides.html)
+- [2. 爬蟲基本概念](http://mirdex.github.io/DataCrawler0929/1.%20爬蟲基本概念.slides.html)
