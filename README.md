@@ -16,3 +16,4 @@
 - [3. 擷取網路資料](http://mirdex.github.io/DataCrawler0929/2.%20擷取網路資料_Q.slides.html)
 - [4. 爬取靜態網頁](http://mirdex.github.io/DataCrawler0929/3.爬取靜態網頁_Q.slides.html)
 - [5. 淺談正規表達式](http://mirdex.github.io/DataCrawler0929/4.%20淺談正規表達式_Q.slides.html)
+- [6. CSS選擇器](http://mirdex.github.io/DataCrawler0929/5.%20CSS選擇器_Q.slides.html)
