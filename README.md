@@ -18,3 +18,4 @@
 - [5. 淺談正規表達式](http://mirdex.github.io/DataCrawler0929/4.%20淺談正規表達式_Q.slides.html)
 - [6. CSS選擇器](http://mirdex.github.io/DataCrawler0929/5.%20CSS選擇器_Q.slides.html)
 - [7. HTML走訪](http://mirdex.github.io/DataCrawler0929/6.%20HTML%20走訪_Q.slides.html)
+- [8. 實戰練習一](http://mirdex.github.io/DataCrawler0929/7.%20實戰練習一_Q.slides.html)
