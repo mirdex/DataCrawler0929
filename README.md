@@ -23,3 +23,5 @@
 - [10. XML資料擷取](http://mirdex.github.io/DataCrawler0929/9.%20XML資料擷取_Q.slides.html)
 - [11. Selenium](http://mirdex.github.io/DataCrawler0929/10.%20Selenium_Q.slides.html)
 - [12. 實戰練習二](http://mirdex.github.io/DataCrawler0929/11.%20實戰練習二_Q.slides.html)
+- [13. 視覺化簡介](http://mirdex.github.io/DataCrawler0929/1.%20Data%20Visualization%20Introduction.slides.html)
+- [14. Matplotlib基礎](http://mirdex.github.io/DataCrawler0929/2.%20Matplotlib基礎_Q.slides.html)
